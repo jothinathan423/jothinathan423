@@ -34,7 +34,7 @@
 <h3 align="center">🛠️ Skills & Tools</h3>
 <p align="center">
   <!-- Add icons for your skills and tools here -->
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" height="40" width="40" />
+  <img src="https://img.icons8.com/color/48/000000/java.png" alt="Python" height="40" width="40" />
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" height="40" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="40" width="40" />
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" height="40" width="40" />
