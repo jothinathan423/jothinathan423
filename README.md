@@ -16,19 +16,16 @@
 <!-- Contact Me -->
 <h3 align="center">📫 Connect with Me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/tanishka-singh-8b1892258/" target="_blank">
+  <a href="https://www.linkedin.com/in/jothinathan-nagarajan-34b31024a/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40" />
   </a>
-  <a href="https://instagram.com/tanishka.singh._" target="_blank">
+  <a href="https://www.instagram.com/jothinathannagarajan/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" height="40" width="40" />
   </a>
-  <a href="https://www.codechef.com/users/tanishka5singh" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/codechef.png" alt="CodeChef" height="40" width="40" />
+  <a href="https://www.geeksforgeeks.org/user/jothinathan7wsv/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="CodeChef" height="40" width="40" />
   </a>
-  <a href="https://codeforces.com/profile/.sam_20" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="40" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/TanishkaS5304/" target="_blank">
+  <a href="https://leetcode.com/u/Jothinathannagarajan/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" />
   </a>
 </p>
