@@ -1,6 +1,6 @@
 <!-- Title -->
 <h1 align="center">👩‍💻 Welcome to My Code Wonderland!</h1>
-<h2 align="center">Tanishka Singh</h2>
+<h2 align="center">JOTHINATHAN NAGARAJAN</h2>
 
 <!-- Subtitle -->
 <p align="center">Passionate about coding, creating, and exploring the digital universe.</p>
