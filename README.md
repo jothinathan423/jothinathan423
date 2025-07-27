@@ -46,9 +46,22 @@
   <img src="https://img.icons8.com/color/48/000000/code.png" alt="Coding" height="40" width="40" />
   <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" height="40" width="40" />
 
+
 ### 📊 My Coding Stats
-- **LeetCode Solved:** ![LeetCode Stats](https://img.shields.io/badge/dynamic/json?color=orange&label=LeetCode%20Solved&query=totalSolved&url=https://leetcode-stats-api.herokuapp.com/Jothinathannagarajan)
-- **GFG Solved:** ![GFG Stats](https://img.shields.io/badge/dynamic/json?color=green&label=GFG%20Solved&query=total_problems_solved&url=https://gfgapi.vercel.app/jothinathan7wsv)
+
+#### 🏆 LeetCode
+![Total Solved](https://img.shields.io/badge/dynamic/json?color=orange&label=Total%20Solved&query=totalSolved&url=https://leetcode-stats-api.herokuapp.com/Jothinathannagarajan)
+![Easy](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Easy&query=easySolved&url=https://leetcode-stats-api.herokuapp.com/Jothinathannagarajan)
+![Medium](https://img.shields.io/badge/dynamic/json?color=yellow&label=Medium&query=mediumSolved&url=https://leetcode-stats-api.herokuapp.com/Jothinathannagarajan)
+![Hard](https://img.shields.io/badge/dynamic/json?color=red&label=Hard&query=hardSolved&url=https://leetcode-stats-api.herokuapp.com/Jothinathannagarajan)
+
+#### 🏆 GeeksforGeeks
+![Total Solved](https://img.shields.io/badge/dynamic/json?color=green&label=Total%20Solved&query=total_problems_solved&url=https://gfgapi.vercel.app/jothinathan7wsv)
+![Easy](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Easy&query=easy&url=https://gfgapi.vercel.app/jothinathan7wsv)
+![Medium](https://img.shields.io/badge/dynamic/json?color=yellow&label=Medium&query=medium&url=https://gfgapi.vercel.app/jothinathan7wsv)
+![Hard](https://img.shields.io/badge/dynamic/json?color=red&label=Hard&query=hard&url=https://gfgapi.vercel.app/jothinathan7wsv)
+
+
 
 </p>
 <center> 
