@@ -52,7 +52,7 @@
 | Platform | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |----------|-------------|---------|-----------|---------|
 | **LeetCode** | ![Total](https://img.shields.io/badge/dynamic/json?color=orange&label=&query=totalSolved&url=https://leetcode-stats-api.herokuapp.com/Jothinathannagarajan) | ![Easy](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=&query=easySolved&url=https://leetcode-stats-api.herokuapp.com/Jothinathannagarajan) | ![Medium](https://img.shields.io/badge/dynamic/json?color=yellow&label=&query=mediumSolved&url=https://leetcode-stats-api.herokuapp.com/Jothinathannagarajan) | ![Hard](https://img.shields.io/badge/dynamic/json?color=red&label=&query=hardSolved&url=https://leetcode-stats-api.herokuapp.com/Jothinathannagarajan) |
-| **GeeksforGeeks** | **`250`** | **`150`** | **`80`** | **`20`** |
+| **GeeksforGeeks** | **`314`** | **`277`** | **`36`** | **`0`** |
 
 ---
 
