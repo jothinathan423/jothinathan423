@@ -46,6 +46,10 @@
   <img src="https://img.icons8.com/color/48/000000/code.png" alt="Coding" height="40" width="40" />
   <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" height="40" width="40" />
 
+### 📊 My Coding Stats
+- **LeetCode Solved:** ![LeetCode Stats](https://img.shields.io/badge/dynamic/json?color=orange&label=solved&query=solved&url=https://leetcode.com/u/Jothinathannagarajan/)
+- **GFG Solved:** ![GFG Stats](https://img.shields.io/badge/dynamic/json?color=green&label=solved&query=solved&url=https://www.geeksforgeeks.org/user/jothinathan7wsv/)
+
 </p>
 <center> 
 
