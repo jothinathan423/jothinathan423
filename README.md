@@ -47,6 +47,42 @@
   <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" height="40" width="40" />
 
 
+
+
+### 📊 My Coding & GitHub Analytics
+
+---
+
+## 🏆 GitHub Analytics
+
+![Jothinathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JothinathanNagarajan&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JothinathanNagarajan&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 LeetCode Stats
+
+### 🔹 **Badges (Live Updating)**
+
+| Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard |
+|--------------|---------|-----------|---------|
+| ![Total](https://img.shields.io/badge/dynamic/json?color=orange&label=&query=totalSolved&url=https://leetcode-stats-api.herokuapp.com/Jothinathannagarajan) | ![Easy](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=&query=easySolved&url=https://leetcode-stats-api.herokuapp.com/Jothinathannagarajan) | ![Medium](https://img.shields.io/badge/dynamic/json?color=yellow&label=&query=mediumSolved&url=https://leetcode-stats-api.herokuapp.com/Jothinathannagarajan) | ![Hard](https://img.shields.io/badge/dynamic/json?color=red&label=&query=hardSolved&url=https://leetcode-stats-api.herokuapp.com/Jothinathannagarajan) |
+
+### 🔹 **Graph-Style Stats Card**
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Jothinathannagarajan?theme=dark&font=Baloo%20Paaji&ext=heatmap)
+
+---
+
+## 🏆 GeeksforGeeks (Manual Update)
+
+| Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard |
+|--------------|---------|-----------|---------|
+| **`250`** | **`150`** | **`80`** | **`20`** |
+
+
+
+
 ### 📊 My Coding Stats
 
 | Platform | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard |
