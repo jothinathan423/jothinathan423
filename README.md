@@ -102,7 +102,8 @@
  
  phone: 8807993608
 
- portfolio: <a href="https://jothinathan-portfolio.netlify.app/" target="_blank">Link</a>
+[Portfolio](https://jothinathan-portfolio.netlify.app/)
+
 <!-- 
  😄 Pronouns: ...
  
