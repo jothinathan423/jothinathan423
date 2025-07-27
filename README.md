@@ -55,11 +55,14 @@
 ![Medium](https://img.shields.io/badge/dynamic/json?color=yellow&label=Medium&query=mediumSolved&url=https://leetcode-stats-api.herokuapp.com/Jothinathannagarajan)
 ![Hard](https://img.shields.io/badge/dynamic/json?color=red&label=Hard&query=hardSolved&url=https://leetcode-stats-api.herokuapp.com/Jothinathannagarajan)
 
-#### 🏆 GeeksforGeeks
-![Total Solved](https://img.shields.io/badge/dynamic/json?color=green&label=Total%20Solved&query=total_problems_solved&url=https://gfgapi.vercel.app/jothinathan7wsv)
-![Easy](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Easy&query=easy&url=https://gfgapi.vercel.app/jothinathan7wsv)
-![Medium](https://img.shields.io/badge/dynamic/json?color=yellow&label=Medium&query=medium&url=https://gfgapi.vercel.app/jothinathan7wsv)
-![Hard](https://img.shields.io/badge/dynamic/json?color=red&label=Hard&query=hard&url=https://gfgapi.vercel.app/jothinathan7wsv)
+
+### 🏆 GeeksforGeeks Stats
+
+![Total Solved](https://img.shields.io/badge/dynamic/json?color=green&label=Total%20Solved&query=totalProblemsSolved&url=https://geeks-for-geeks-stats-api.vercel.app/?raw=true&userName=jothinathan7wsv)
+![Easy](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Easy&query=Easy&url=https://geeks-for-geeks-stats-api.vercel.app/?raw=true&userName=jothinathan7wsv)
+![Medium](https://img.shields.io/badge/dynamic/json?color=yellow&label=Medium&query=Medium&url=https://geeks-for-geeks-stats-api.vercel.app/?raw=true&userName=jothinathan7wsv)
+![Hard](https://img.shields.io/badge/dynamic/json?color=red&label=Hard&query=Hard&url=https://geeks-for-geeks-stats-api.vercel.app/?raw=true&userName=jothinathan7wsv)
+
 
 
 
