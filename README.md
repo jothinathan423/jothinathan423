@@ -138,3 +138,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=jothinathan423&color=brightgreen)
