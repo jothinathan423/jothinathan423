@@ -141,4 +141,9 @@ Here are some ideas to get you started:
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=jothinathan423&color=brightgreen)
+### 👀 Visitor Count
+
+![Profile Views](https://komarev.com/ghpvc/?username=jothinathan&color=brightgreen)
+
+![Total Visitors](https://img.shields.io/badge/dynamic/json?color=blue&label=Total%20Visitors&query=value&url=https://api.countapi.xyz/hit/jothinathan-portfolio/visits)
+
