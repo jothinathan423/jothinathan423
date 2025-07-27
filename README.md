@@ -49,19 +49,23 @@
 
 ### 📊 My Coding Stats
 
-#### 🏆 LeetCode
-![Total Solved](https://img.shields.io/badge/dynamic/json?color=orange&label=Total%20Solved&query=totalSolved&url=https://leetcode-stats-api.herokuapp.com/Jothinathannagarajan)
-![Easy](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Easy&query=easySolved&url=https://leetcode-stats-api.herokuapp.com/Jothinathannagarajan)
-![Medium](https://img.shields.io/badge/dynamic/json?color=yellow&label=Medium&query=mediumSolved&url=https://leetcode-stats-api.herokuapp.com/Jothinathannagarajan)
-![Hard](https://img.shields.io/badge/dynamic/json?color=red&label=Hard&query=hardSolved&url=https://leetcode-stats-api.herokuapp.com/Jothinathannagarajan)
+| Platform | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard |
+|----------|-------------|---------|-----------|---------|
+| **LeetCode** | ![Total](https://img.shields.io/badge/dynamic/json?color=orange&label=&query=totalSolved&url=https://leetcode-stats-api.herokuapp.com/Jothinathannagarajan) | ![Easy](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=&query=easySolved&url=https://leetcode-stats-api.herokuapp.com/Jothinathannagarajan) | ![Medium](https://img.shields.io/badge/dynamic/json?color=yellow&label=&query=mediumSolved&url=https://leetcode-stats-api.herokuapp.com/Jothinathannagarajan) | ![Hard](https://img.shields.io/badge/dynamic/json?color=red&label=&query=hardSolved&url=https://leetcode-stats-api.herokuapp.com/Jothinathannagarajan) |
+| **GeeksforGeeks** | **`250`** | **`150`** | **`80`** | **`20`** |
 
+---
 
-### 🏆 GeeksforGeeks Stats
+### 🏆 LeetCode Stats Card
 
-![Total Solved](https://img.shields.io/badge/dynamic/json?color=green&label=Total%20Solved&query=totalProblemsSolved&url=https://geeks-for-geeks-stats-api.vercel.app/?raw=true&userName=jothinathan7wsv)
-![Easy](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Easy&query=Easy&url=https://geeks-for-geeks-stats-api.vercel.app/?raw=true&userName=jothinathan7wsv)
-![Medium](https://img.shields.io/badge/dynamic/json?color=yellow&label=Medium&query=Medium&url=https://geeks-for-geeks-stats-api.vercel.app/?raw=true&userName=jothinathan7wsv)
-![Hard](https://img.shields.io/badge/dynamic/json?color=red&label=Hard&query=Hard&url=https://geeks-for-geeks-stats-api.vercel.app/?raw=true&userName=jothinathan7wsv)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Jothinathannagarajan?theme=dark&font=Baloo%20Paaji&ext=heatmap)
+
+### 🏆 GeeksforGeeks (Manual Update)
+
+- **Total Solved:** `250`  
+- **Easy:** `150`  
+- **Medium:** `80`  
+- **Hard:** `20`
 
 
 
