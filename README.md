@@ -73,12 +73,12 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Jothinathannagarajan?theme=dark&font=Baloo%20Paaji&ext=heatmap)
 
-### 🏆 GeeksforGeeks (Manual Update)
+### 🏆 GeeksforGeeks
 
-- **Total Solved:** `250`  
-- **Easy:** `150`  
-- **Medium:** `80`  
-- **Hard:** `20`
+- **Total Solved:** `314`  
+- **Easy:** `277`  
+- **Medium:** `36`  
+- **Hard:** `0`
 
 
 
@@ -101,6 +101,8 @@
  mail : jothinathannagarajan@gmail.com
  
  phone: 8807993608
+
+ portfolio: <a href="https://jothinathan-portfolio.netlify.app/" target="_blank">Link</a>
 <!-- 
  😄 Pronouns: ...
  
