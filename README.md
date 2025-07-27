@@ -47,8 +47,8 @@
   <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" height="40" width="40" />
 
 ### 📊 My Coding Stats
-- **LeetCode Solved:** ![LeetCode Stats](https://img.shields.io/badge/dynamic/json?color=orange&label=solved&query=solved&url=https://leetcode.com/u/Jothinathannagarajan/)
-- **GFG Solved:** ![GFG Stats](https://img.shields.io/badge/dynamic/json?color=green&label=solved&query=solved&url=https://www.geeksforgeeks.org/user/jothinathan7wsv/)
+- **LeetCode Solved:** ![LeetCode Stats](https://img.shields.io/badge/dynamic/json?color=orange&label=LeetCode%20Solved&query=totalSolved&url=https://leetcode-stats-api.herokuapp.com/Jothinathannagarajan)
+- **GFG Solved:** ![GFG Stats](https://img.shields.io/badge/dynamic/json?color=green&label=GFG%20Solved&query=total_problems_solved&url=https://gfgapi.vercel.app/jothinathan7wsv)
 
 </p>
 <center> 
