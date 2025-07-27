@@ -55,31 +55,8 @@
 
 ## 🏆 GitHub Analytics
 
-![Jothinathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JothinathanNagarajan&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JothinathanNagarajan&layout=compact&theme=tokyonight)
-
----
-
-## 🏆 LeetCode Stats
-
-### 🔹 **Badges (Live Updating)**
-
-| Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard |
-|--------------|---------|-----------|---------|
-| ![Total](https://img.shields.io/badge/dynamic/json?color=orange&label=&query=totalSolved&url=https://leetcode-stats-api.herokuapp.com/Jothinathannagarajan) | ![Easy](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=&query=easySolved&url=https://leetcode-stats-api.herokuapp.com/Jothinathannagarajan) | ![Medium](https://img.shields.io/badge/dynamic/json?color=yellow&label=&query=mediumSolved&url=https://leetcode-stats-api.herokuapp.com/Jothinathannagarajan) | ![Hard](https://img.shields.io/badge/dynamic/json?color=red&label=&query=hardSolved&url=https://leetcode-stats-api.herokuapp.com/Jothinathannagarajan) |
-
-### 🔹 **Graph-Style Stats Card**
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Jothinathannagarajan?theme=dark&font=Baloo%20Paaji&ext=heatmap)
-
----
-
-## 🏆 GeeksforGeeks (Manual Update)
-
-| Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard |
-|--------------|---------|-----------|---------|
-| **`250`** | **`150`** | **`80`** | **`20`** |
-
+![Jothinathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jothinathan423&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jothinathan423&layout=compact&theme=tokyonight)
 
 
 
