@@ -143,7 +143,7 @@ Here are some ideas to get you started:
 
 ### 👀 Visitor Count
 
-![Profile Views](https://komarev.com/ghpvc/?username=jothinathan&color=brightgreen)
+![Profile Views](2000+(https://komarev.com/ghpvc/?username=jothinathan&color=brightgreen))
 
 
 
